@@ -55,7 +55,6 @@ uv run transcribe --audio path/to/audio.mp3 \
   --typewriter-speed 0.01 \
   --log-partial-transcripts datasets/output.csv
 ```
-
 | Option | Description |
 |--------|-------------|
 | `--audio` | Path to audio file (required) |
